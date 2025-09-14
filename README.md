@@ -1,0 +1,1 @@
+This repository contains my precious games. I will endeavor to update as more are created. Copy the links and paste them into Google, or run the files with a Python/Java IDE as needed. Constructive criticism and comments are welcome! <3
